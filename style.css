@@ -29,6 +29,10 @@ body{
     border-radius: 20px;
     background-color: #19191a;
     margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
 }
 .main-calc{
     width: 100%;
